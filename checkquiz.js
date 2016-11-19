@@ -167,14 +167,5 @@ $(document).ready(function(){
 			$('.menu-button-slide.right').css('display','block');
 		}
 	}
-	resize_do();
-	if(parseInt($(window).width())>=740){
-		col_quiz_content.jScrollPane(scroll_settings);
-	}
-	$(window).resize(function(){
-		resize_do();
-	})
-	$(window).scroll(function(){
-		resize_do();
-	});
+	
 });
