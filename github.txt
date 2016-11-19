@@ -8,9 +8,3 @@ http://fsd14.com/post/111-lam-sao-de-lam-viec-nhom-tren-github
 http://blog.appconus.com/2015/08/07/git-branch-va-mo-hinh-pull-request-phan-1/
 http://hamrongmedia.com/huong-dan-su-dung-git-va-bitbucket-quan-ly-du-lap-trinh/
 
-
-
-git init
-git status
-git addd tengia gi ||   git add '*.txt?'
-git commit -m 'add'
