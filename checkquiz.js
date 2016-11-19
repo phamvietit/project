@@ -4,13 +4,7 @@ $(document).ready(function(){
 	close_page=true;
 	$("#div-check-quiz").jScrollPane(scroll_settings);
 	
-	//col_quiz_content.jScrollPane(scroll_settings);
-	tabs=$("#multiple").tabs();	
-
-	if(tab_select!=""){
-		tabs.set_tab(tab_select);
-	}
-
+	
 	var check_quiz=$("html").checkquiz({total_q:total_q,enable_check:false});
 	
 	if(view_history==true){
