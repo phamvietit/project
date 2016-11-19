@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=oFYyTZwMyAg
+https://www.youtube.com/watch?v=uR-9NGrpU-c
+https://www.youtube.com/watch?v=lflpcxN-qE0
+http://hamrongmedia.com/huong-dan-su-dung-git-va-bitbucket-quan-ly-du-lap-trinh/
+https://gist.github.com/foogit/8410710
+https://www.quora.com/What-are-the-differences-between-BitBucket-and-GitHub
+http://fsd14.com/post/111-lam-sao-de-lam-viec-nhom-tren-github
+http://blog.appconus.com/2015/08/07/git-branch-va-mo-hinh-pull-request-phan-1/
+http://hamrongmedia.com/huong-dan-su-dung-git-va-bitbucket-quan-ly-du-lap-trinh/
+
+
+
+git init
+git status
+git addd tengia gi ||   git add '*.txt?'
+git commit -m 'add'
